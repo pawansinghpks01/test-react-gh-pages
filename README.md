@@ -4,6 +4,12 @@ This repo aims to test and understand how Github Pages works with React App.
 Check out the result (Github Page) - https://pawansinghpks01.github.io/test-react-gh-pages/
 The React App created through [Create React App](https://github.com/facebook/create-react-app).
 
+## Push code from local to Master
+
+`$ git add .`
+`$ git commit -m "Create a React app and publish it to GitHub Pages"`
+`$ git push origin master`
+
 ## Available Scripts
 
 In the project directory, you can run:
