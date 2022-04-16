@@ -7,7 +7,9 @@ The React App created through [Create React App](https://github.com/facebook/cre
 ## Push code from local to Master
 
 `$ git add .`
+
 `$ git commit -m "Create a React app and publish it to GitHub Pages"`
+
 `$ git push origin master`
 
 ## Available Scripts
